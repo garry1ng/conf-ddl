@@ -1,0 +1,13 @@
+---
+- name: Artificial Intelligence
+  tag: AI
+- name: Machine Learning
+  tag: ML
+- name: Evolutionary Algorithm
+  tag: EA
+- name: Computer Vision
+  tag: CV
+- name: Computer Graphics
+  tag: CG
+- name: Natural Language Processing
+  tag: NLP

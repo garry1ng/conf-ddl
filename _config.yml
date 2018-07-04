@@ -1,0 +1,14 @@
+title: My Conference Deadlines
+description: Countdowns to my conference deadlines.
+author: Jiaying Lin
+
+domain: "garrylam.com"
+baseurl: "/conf-ddl"
+
+twitter_username: 
+github_username: garry1ng
+github_repo: conf-ddl
+ga_id: UA-119740672-1
+
+markdown: kramdown
+
