@@ -10,12 +10,12 @@
   tags: AI
 
 - name: ICRA
+  description: IEEE International Conference on Robotics and Automation
   year: 2019
-  id: icra2019
-  link: https://icra2019.org//
+  link: https://icra2019.org/
   deadline: "2018-09-15 23:59:59"
-  timezone: Etc/GMT
-  date: May 20-24, 2019
+  timezone: Etc/GMT+10
+  date: May 20 - May 24, 2019
   place: Montreal, Canada
   tags: AI
 
