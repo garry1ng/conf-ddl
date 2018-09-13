@@ -1,4 +1,6 @@
 ---
+- name: Operating System
+  tag: OS
 - name: Artificial Intelligence
   tag: AI
 - name: Machine Learning
